@@ -1,0 +1,3 @@
+Ruta para descargar videos y probar con el modelo
+
+https://www.pexels.com/es-es/video/ciudad-carretera-gente-calle-20260712/

@@ -1,0 +1,52 @@
+🛍️ Customer Segmentation with Machine Learning
+
+
+Proyectos para ciencia de datos
+
+1. por medio de un scaner, ponerlo en frente de un restaurante y determinar cuantas personas de las que pasan al lado del restaurante entran a comer
+2. Por medio de un scaneo en una carretera identificar el tipo de carro al que se esta pasando
+3. Hacer un proyecto para identificar un comportamiento de fraude dentro de una organización
+4. Proyecto del titanic, prediga si un pasajero sobrevivio o no, mediante un modelo que prediga cualquier tipo de variables que realmente influyen al momento de utilizar este modelo de machine learning.
+
+5. Predicción de una empresa si esta en bancarrota o no, con un conjunto de datos con una variable objetivo, mediante diferentes ratios financieros.
+dataset:https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
+
+Utilizar modelos como:
+-regresión logística
+-Arboles de decisión
+-Modelos que sean si es cero o uno
+
+Nota: entender como el modelo funciona para predecir que esta en bancarrota.
+
+6. Segmentación y clasificación de cliente, si un grupo de personas puede estar situándose en este grupo por medio de modelos como K-means o DBSCAN
+Dataset: https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation
+
+7. Recomendación de contenido, utilizando el consumo del contenido, de peliculas, musica o de diferentes videos que el usuario ya haya visto, recomendado por si te gusta este mundo de machine learning, por que con esto nos hagan enganchar dentro de las plataformas de redes sociales.
+Dataset: https://www.kaggle.com/code/mfaaris/content-based-and-tensorflow-recommender-system
+
+Utilizando diferentes variables como: Puntuación del usuario a dicha pelicula, títulos, año de lanzamiento entre otros.
+
+Para estar realizando este proyecto podemos utilizar modelos como: los vecinos mas cercanos, redes neuronales, o modelos de clustering k-means o DBSCAN Entre otros.
+
+recomendación darle un vistazo muy grande a este proyecto, que es algo en el que ha revolucionado el mundo de machine learning.
+
+8. Análisis de sentimiento, si son frases positivas o negativas, consejos o criticas de acuerdo a los textos, para identificar la polaridad si es positivo o negativo.
+
+Redes neuronales recurrentes
+Dataset: https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+
+Entenderemos el lenguaje natural, para conocer los Word emberings o los eberings contextuales, algo completamente para entender el texto en un espacio tridimensional entendemos como funciona todo esto, podemos utilizar modelos como: soporte machine, o los arboles de decisión o random forest pero sobre todo podemos indagar en modelos de Deep learning ya sea redes neuronales recurrentes o redes de atención, algunos problemas que encontraremos será el sarcasmo o la ironia y que la maquina no lo entienda de mucho
+
+9. Detección de objetos, redes neuronales convolucionales o la arquitectura de YOLO, desarrollar un sistema que sea capaz de identificar multiples objetos en una imagen o video, lo que haremos será clasificarlas según sus categorías como dentro del dataset llamado: coco
+
+10. Reconocimiento Facial
+
+11. traductor del idioma en que yo quiera
+
+12. Identificar objetos en tiempo real
+
+13. reconocimiento de voz
+14. Consumir un LLM
+15. Crear un Chat bot que use Lang Chain
+16. Usar la técnica Fine Tuning y Transfer Learning
+17. Crear un juego que utilice IA y que utilice aprendizaje por refuerzo, es decir aprender a tomar decisiones por un entorno en el que no conoce, y aprende a realizar esas tareas en especial
